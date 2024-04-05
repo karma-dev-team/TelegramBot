@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Karma-Bot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F56186E-E34D-419A-8A3F-ACC146B6E3AC}|Karma-Bot\\Karma-Bot.csproj|c:\\users\\user\\source\\repos\\karma-bot\\karma-bot\\tests\\groups\\welcomeuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F56186E-E34D-419A-8A3F-ACC146B6E3AC}|Karma-Bot\\Karma-Bot.csproj|solutionrelative:karma-bot\\tests\\groups\\welcomeuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F56186E-E34D-419A-8A3F-ACC146B6E3AC}|Karma-Bot\\Karma-Bot.csproj|c:\\users\\user\\source\\repos\\karma-bot\\karma-bot\\tests\\groups\\linkreplacetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F56186E-E34D-419A-8A3F-ACC146B6E3AC}|Karma-Bot\\Karma-Bot.csproj|solutionrelative:karma-bot\\tests\\groups\\linkreplacetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F56186E-E34D-419A-8A3F-ACC146B6E3AC}|Karma-Bot\\Karma-Bot.csproj|c:\\users\\user\\source\\repos\\karma-bot\\karma-bot\\tests\\controls\\buttongridtagform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F56186E-E34D-419A-8A3F-ACC146B6E3AC}|Karma-Bot\\Karma-Bot.csproj|solutionrelative:karma-bot\\tests\\controls\\buttongridtagform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F56186E-E34D-419A-8A3F-ACC146B6E3AC}|Karma-Bot\\Karma-Bot.csproj|c:\\users\\user\\source\\repos\\karma-bot\\karma-bot\\karma-bot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8F56186E-E34D-419A-8A3F-ACC146B6E3AC}|Karma-Bot\\Karma-Bot.csproj|solutionrelative:karma-bot\\karma-bot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F56186E-E34D-419A-8A3F-ACC146B6E3AC}|Karma-Bot\\Karma-Bot.csproj|c:\\users\\user\\source\\repos\\karma-bot\\karma-bot\\tests\\register\\steps\\step2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F56186E-E34D-419A-8A3F-ACC146B6E3AC}|Karma-Bot\\Karma-Bot.csproj|solutionrelative:karma-bot\\tests\\register\\steps\\step2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F56186E-E34D-419A-8A3F-ACC146B6E3AC}|Karma-Bot\\Karma-Bot.csproj|c:\\users\\user\\source\\repos\\karma-bot\\karma-bot\\tests\\register\\steps\\step1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F56186E-E34D-419A-8A3F-ACC146B6E3AC}|Karma-Bot\\Karma-Bot.csproj|solutionrelative:karma-bot\\tests\\register\\steps\\step1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F56186E-E34D-419A-8A3F-ACC146B6E3AC}|Karma-Bot\\Karma-Bot.csproj|c:\\users\\user\\source\\repos\\karma-bot\\karma-bot\\tests\\register\\steps\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F56186E-E34D-419A-8A3F-ACC146B6E3AC}|Karma-Bot\\Karma-Bot.csproj|solutionrelative:karma-bot\\tests\\register\\steps\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F56186E-E34D-419A-8A3F-ACC146B6E3AC}|Karma-Bot\\Karma-Bot.csproj|c:\\users\\user\\source\\repos\\karma-bot\\karma-bot\\tests\\controls\\multitogglebuttonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F56186E-E34D-419A-8A3F-ACC146B6E3AC}|Karma-Bot\\Karma-Bot.csproj|solutionrelative:karma-bot\\tests\\controls\\multitogglebuttonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F56186E-E34D-419A-8A3F-ACC146B6E3AC}|Karma-Bot\\Karma-Bot.csproj|c:\\users\\user\\source\\repos\\karma-bot\\karma-bot\\tests\\progresstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F56186E-E34D-419A-8A3F-ACC146B6E3AC}|Karma-Bot\\Karma-Bot.csproj|solutionrelative:karma-bot\\tests\\progresstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F56186E-E34D-419A-8A3F-ACC146B6E3AC}|Karma-Bot\\Karma-Bot.csproj|c:\\users\\user\\source\\repos\\karma-bot\\karma-bot\\tests\\controls\\monthpickerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F56186E-E34D-419A-8A3F-ACC146B6E3AC}|Karma-Bot\\Karma-Bot.csproj|solutionrelative:karma-bot\\tests\\controls\\monthpickerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F56186E-E34D-419A-8A3F-ACC146B6E3AC}|Karma-Bot\\Karma-Bot.csproj|c:\\users\\user\\source\\repos\\karma-bot\\karma-bot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F56186E-E34D-419A-8A3F-ACC146B6E3AC}|Karma-Bot\\Karma-Bot.csproj|solutionrelative:karma-bot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F56186E-E34D-419A-8A3F-ACC146B6E3AC}|Karma-Bot\\Karma-Bot.csproj|c:\\users\\user\\source\\repos\\karma-bot\\karma-bot\\tests\\testform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F56186E-E34D-419A-8A3F-ACC146B6E3AC}|Karma-Bot\\Karma-Bot.csproj|solutionrelative:karma-bot\\tests\\testform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F56186E-E34D-419A-8A3F-ACC146B6E3AC}|Karma-Bot\\Karma-Bot.csproj|c:\\users\\user\\source\\repos\\karma-bot\\karma-bot\\tests\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F56186E-E34D-419A-8A3F-ACC146B6E3AC}|Karma-Bot\\Karma-Bot.csproj|solutionrelative:karma-bot\\tests\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F56186E-E34D-419A-8A3F-ACC146B6E3AC}|Karma-Bot\\Karma-Bot.csproj|c:\\users\\user\\source\\repos\\karma-bot\\karma-bot\\tests\\simpleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F56186E-E34D-419A-8A3F-ACC146B6E3AC}|Karma-Bot\\Karma-Bot.csproj|solutionrelative:karma-bot\\tests\\simpleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F56186E-E34D-419A-8A3F-ACC146B6E3AC}|Karma-Bot\\Karma-Bot.csproj|c:\\users\\user\\source\\repos\\karma-bot\\karma-bot\\tests\\arraypromptdialogtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F56186E-E34D-419A-8A3F-ACC146B6E3AC}|Karma-Bot\\Karma-Bot.csproj|solutionrelative:karma-bot\\tests\\arraypromptdialogtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F56186E-E34D-419A-8A3F-ACC146B6E3AC}|Karma-Bot\\Karma-Bot.csproj|c:\\users\\user\\source\\repos\\karma-bot\\karma-bot\\tests\\buttontestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F56186E-E34D-419A-8A3F-ACC146B6E3AC}|Karma-Bot\\Karma-Bot.csproj|solutionrelative:karma-bot\\tests\\buttontestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F56186E-E34D-419A-8A3F-ACC146B6E3AC}|Karma-Bot\\Karma-Bot.csproj|c:\\users\\user\\source\\repos\\karma-bot\\karma-bot\\tests\\dataform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F56186E-E34D-419A-8A3F-ACC146B6E3AC}|Karma-Bot\\Karma-Bot.csproj|solutionrelative:karma-bot\\tests\\dataform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F56186E-E34D-419A-8A3F-ACC146B6E3AC}|Karma-Bot\\Karma-Bot.csproj|c:\\users\\user\\source\\repos\\karma-bot\\karma-bot\\tests\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F56186E-E34D-419A-8A3F-ACC146B6E3AC}|Karma-Bot\\Karma-Bot.csproj|solutionrelative:karma-bot\\tests\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F56186E-E34D-419A-8A3F-ACC146B6E3AC}|Karma-Bot\\Karma-Bot.csproj|c:\\users\\user\\source\\repos\\karma-bot\\karma-bot\\tests\\testform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F56186E-E34D-419A-8A3F-ACC146B6E3AC}|Karma-Bot\\Karma-Bot.csproj|solutionrelative:karma-bot\\tests\\testform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F56186E-E34D-419A-8A3F-ACC146B6E3AC}|Karma-Bot\\Karma-Bot.csproj|c:\\users\\user\\source\\repos\\karma-bot\\karma-bot\\tests\\controls\\buttongridpagingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F56186E-E34D-419A-8A3F-ACC146B6E3AC}|Karma-Bot\\Karma-Bot.csproj|solutionrelative:karma-bot\\tests\\controls\\buttongridpagingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WelcomeUser.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Karma-Bot\\Karma-Bot\\Tests\\Groups\\WelcomeUser.cs",
+              "RelativeDocumentMoniker": "Karma-Bot\\Tests\\Groups\\WelcomeUser.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Karma-Bot\\Karma-Bot\\Tests\\Groups\\WelcomeUser.cs",
+              "RelativeToolTip": "Karma-Bot\\Tests\\Groups\\WelcomeUser.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAgwEgAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T11:22:24.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LinkReplaceTest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Karma-Bot\\Karma-Bot\\Tests\\Groups\\LinkReplaceTest.cs",
+              "RelativeDocumentMoniker": "Karma-Bot\\Tests\\Groups\\LinkReplaceTest.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Karma-Bot\\Karma-Bot\\Tests\\Groups\\LinkReplaceTest.cs",
+              "RelativeToolTip": "Karma-Bot\\Tests\\Groups\\LinkReplaceTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T11:22:23.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ButtonGridTagForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Karma-Bot\\Karma-Bot\\Tests\\Controls\\ButtonGridTagForm.cs",
+              "RelativeDocumentMoniker": "Karma-Bot\\Tests\\Controls\\ButtonGridTagForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Karma-Bot\\Karma-Bot\\Tests\\Controls\\ButtonGridTagForm.cs",
+              "RelativeToolTip": "Karma-Bot\\Tests\\Controls\\ButtonGridTagForm.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwEcAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T11:22:14.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Step1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Karma-Bot\\Karma-Bot\\Tests\\Register\\Steps\\Step1.cs",
+              "RelativeDocumentMoniker": "Karma-Bot\\Tests\\Register\\Steps\\Step1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Karma-Bot\\Karma-Bot\\Tests\\Register\\Steps\\Step1.cs",
+              "RelativeToolTip": "Karma-Bot\\Tests\\Register\\Steps\\Step1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:27:11.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Karma-Bot\\Karma-Bot\\Tests\\Register\\Steps\\Data.cs",
+              "RelativeDocumentMoniker": "Karma-Bot\\Tests\\Register\\Steps\\Data.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Karma-Bot\\Karma-Bot\\Tests\\Register\\Steps\\Data.cs",
+              "RelativeToolTip": "Karma-Bot\\Tests\\Register\\Steps\\Data.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:27:06.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Step2.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Karma-Bot\\Karma-Bot\\Tests\\Register\\Steps\\Step2.cs",
+              "RelativeDocumentMoniker": "Karma-Bot\\Tests\\Register\\Steps\\Step2.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Karma-Bot\\Karma-Bot\\Tests\\Register\\Steps\\Step2.cs",
+              "RelativeToolTip": "Karma-Bot\\Tests\\Register\\Steps\\Step2.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:26:53.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MultiToggleButtonForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Karma-Bot\\Karma-Bot\\Tests\\Controls\\MultiToggleButtonForm.cs",
+              "RelativeDocumentMoniker": "Karma-Bot\\Tests\\Controls\\MultiToggleButtonForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Karma-Bot\\Karma-Bot\\Tests\\Controls\\MultiToggleButtonForm.cs",
+              "RelativeToolTip": "Karma-Bot\\Tests\\Controls\\MultiToggleButtonForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:18:58.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ArrayPromptDialogTest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Karma-Bot\\Karma-Bot\\Tests\\ArrayPromptDialogTest.cs",
+              "RelativeDocumentMoniker": "Karma-Bot\\Tests\\ArrayPromptDialogTest.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Karma-Bot\\Karma-Bot\\Tests\\ArrayPromptDialogTest.cs",
+              "RelativeToolTip": "Karma-Bot\\Tests\\ArrayPromptDialogTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:39:47.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ButtonTestForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Karma-Bot\\Karma-Bot\\Tests\\ButtonTestForm.cs",
+              "RelativeDocumentMoniker": "Karma-Bot\\Tests\\ButtonTestForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Karma-Bot\\Karma-Bot\\Tests\\ButtonTestForm.cs",
+              "RelativeToolTip": "Karma-Bot\\Tests\\ButtonTestForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:39:46.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DataForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Karma-Bot\\Karma-Bot\\Tests\\DataForm.cs",
+              "RelativeDocumentMoniker": "Karma-Bot\\Tests\\DataForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Karma-Bot\\Karma-Bot\\Tests\\DataForm.cs",
+              "RelativeToolTip": "Karma-Bot\\Tests\\DataForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:39:44.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Karma-Bot\\Karma-Bot\\Tests\\Menu.cs",
+              "RelativeDocumentMoniker": "Karma-Bot\\Tests\\Menu.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Karma-Bot\\Karma-Bot\\Tests\\Menu.cs",
+              "RelativeToolTip": "Karma-Bot\\Tests\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:39:15.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Karma-Bot",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Karma-Bot\\Karma-Bot\\Karma-Bot.csproj",
+              "RelativeDocumentMoniker": "Karma-Bot\\Karma-Bot.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Karma-Bot\\Karma-Bot\\Karma-Bot.csproj",
+              "RelativeToolTip": "Karma-Bot\\Karma-Bot.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-05T09:36:09.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TestForm2.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Karma-Bot\\Karma-Bot\\Tests\\TestForm2.cs",
+              "RelativeDocumentMoniker": "Karma-Bot\\Tests\\TestForm2.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Karma-Bot\\Karma-Bot\\Tests\\TestForm2.cs",
+              "RelativeToolTip": "Karma-Bot\\Tests\\TestForm2.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:39:08.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MonthPickerForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Karma-Bot\\Karma-Bot\\Tests\\Controls\\MonthPickerForm.cs",
+              "RelativeDocumentMoniker": "Karma-Bot\\Tests\\Controls\\MonthPickerForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Karma-Bot\\Karma-Bot\\Tests\\Controls\\MonthPickerForm.cs",
+              "RelativeToolTip": "Karma-Bot\\Tests\\Controls\\MonthPickerForm.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:18:51.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProgressTest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Karma-Bot\\Karma-Bot\\Tests\\ProgressTest.cs",
+              "RelativeDocumentMoniker": "Karma-Bot\\Tests\\ProgressTest.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Karma-Bot\\Karma-Bot\\Tests\\ProgressTest.cs",
+              "RelativeToolTip": "Karma-Bot\\Tests\\ProgressTest.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAgwEYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:39:14.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SimpleForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Karma-Bot\\Karma-Bot\\Tests\\SimpleForm.cs",
+              "RelativeDocumentMoniker": "Karma-Bot\\Tests\\SimpleForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Karma-Bot\\Karma-Bot\\Tests\\SimpleForm.cs",
+              "RelativeToolTip": "Karma-Bot\\Tests\\SimpleForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:39:13.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Start.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Karma-Bot\\Karma-Bot\\Tests\\Start.cs",
+              "RelativeDocumentMoniker": "Karma-Bot\\Tests\\Start.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Karma-Bot\\Karma-Bot\\Tests\\Start.cs",
+              "RelativeToolTip": "Karma-Bot\\Tests\\Start.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:39:12.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Karma-Bot\\Karma-Bot\\Program.cs",
+              "RelativeDocumentMoniker": "Karma-Bot\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Karma-Bot\\Karma-Bot\\Program.cs",
+              "RelativeToolTip": "Karma-Bot\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAiwB0AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:35:11.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TestForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Karma-Bot\\Karma-Bot\\Tests\\TestForm.cs",
+              "RelativeDocumentMoniker": "Karma-Bot\\Tests\\TestForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Karma-Bot\\Karma-Bot\\Tests\\TestForm.cs",
+              "RelativeToolTip": "Karma-Bot\\Tests\\TestForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:39:11.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ButtonGridPagingForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Karma-Bot\\Karma-Bot\\Tests\\Controls\\ButtonGridPagingForm.cs",
+              "RelativeDocumentMoniker": "Karma-Bot\\Tests\\Controls\\ButtonGridPagingForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Karma-Bot\\Karma-Bot\\Tests\\Controls\\ButtonGridPagingForm.cs",
+              "RelativeToolTip": "Karma-Bot\\Tests\\Controls\\ButtonGridPagingForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:38:24.954Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
