@@ -41,3 +41,4 @@ C:\Users\user\source\repos\Karma-Bot\Karma-Bot\obj\Debug\net8.0\refint\Karma-Bot
 C:\Users\user\source\repos\Karma-Bot\Karma-Bot\obj\Debug\net8.0\Karma-Bot.pdb
 C:\Users\user\source\repos\Karma-Bot\Karma-Bot\obj\Debug\net8.0\Karma-Bot.genruntimeconfig.cache
 C:\Users\user\source\repos\Karma-Bot\Karma-Bot\obj\Debug\net8.0\ref\Karma-Bot.dll
+C:\Users\user\source\repos\Karma-Bot\Karma-Bot\obj\Debug\net8.0\Karma-Bot.sourcelink.json

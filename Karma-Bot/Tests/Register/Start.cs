@@ -1,4 +1,5 @@
-﻿using System.Threading.Tasks;
+﻿using Microsoft.Extensions.Caching.Memory;
+using System.Threading.Tasks;
 using TelegramBotBase.Base;
 using TelegramBotBase.Form;
 
@@ -6,15 +7,23 @@ namespace TelegramBotBase.Example.Tests.Register;
 
 public class Start : AutoCleanForm
 {
+    private IMemoryCache _memoryCache;
+
+    public Start(IMemoryCache cache)
+    {
+        _memoryCache = cache;
+    }
+
     public override async Task Action(MessageResult message)
     {
         var call = message.GetData<CallbackData>();
 
         await message.ConfirmAction();
 
-
+        _memoryCache.Set("dsa", "dasda"); 
+        
         if (call == null)
-        {
+        { 
             return;
         }
 

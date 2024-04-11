@@ -67,7 +67,7 @@ public class PerForm : AutoCleanForm
     {
         if (Firstname == null)
         {
-            await Device.Send("Please sent your firstname:");
+            await Device.Send("Ваш id аккаунта:");
             return;
         }
 

@@ -11,7 +11,7 @@ public class CalendarPickerForm : AutoCleanForm
 {
     public CalendarPickerForm()
     {
-        DeleteMode = EDeleteMode.OnLeavingForm;
+        DeleteMode = EDeleteMode.OnLeavingForm;                                                 
         Init += CalendarPickerForm_Init;
     }
 

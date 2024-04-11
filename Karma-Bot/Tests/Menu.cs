@@ -236,52 +236,55 @@ public class Menu : AutoCleanForm
     {
         var btn = new ButtonForm();
 
-        btn.AddButtonRow(new ButtonBase("#1 Simple Text", new CallbackData("a", "text").Serialize()),
-                         new ButtonBase("#2 Button Test", new CallbackData("a", "buttons").Serialize()));
-        btn.AddButtonRow(new ButtonBase("#3 Progress Bar", new CallbackData("a", "progress").Serialize()));
-        btn.AddButtonRow(new ButtonBase("#4 Registration Example", new CallbackData("a", "registration").Serialize()));
+        //btn.AddButtonRow(new ButtonBase("#1 Simple Text", new CallbackData("a", "text").Serialize()),
+        //                 new ButtonBase("#2 Button Test", new CallbackData("a", "buttons").Serialize()));
+        btn.AddButtonRow(new ButtonBase("Войти", new CallbackData("a", "registration").Serialize()),
+                        new ButtonBase("Спиок товаров", new CallbackData("a", "buttons").Serialize()));
 
-        btn.AddButtonRow(new ButtonBase("#5 Form1 Command", new CallbackData("a", "form1").Serialize()));
+        //btn.AddButtonRow(new ButtonBase("#3 Progress Bar", new CallbackData("a", "progress").Serialize()));
+        //btn.AddButtonRow(new ButtonBase("#4 Registration Example", new CallbackData("a", "registration").Serialize()));
 
-        btn.AddButtonRow(new ButtonBase("#6 Form2 Command", new CallbackData("a", "form2").Serialize()));
+        //btn.AddButtonRow(new ButtonBase("#5 Form1 Command", new CallbackData("a", "form1").Serialize()));
 
-        btn.AddButtonRow(new ButtonBase("#7 Data Handling", new CallbackData("a", "data").Serialize()));
-        btn.AddButtonRow(new ButtonBase("#8 Calendar Picker", new CallbackData("a", "calendar").Serialize()));
-        btn.AddButtonRow(new ButtonBase("#9 Month Picker", new CallbackData("a", "month").Serialize()));
+        //btn.AddButtonRow(new ButtonBase("#6 Form2 Command", new CallbackData("a", "form2").Serialize()));
 
-        btn.AddButtonRow(new ButtonBase("#10 TreeView", new CallbackData("a", "treeview").Serialize()));
+        //btn.AddButtonRow(new ButtonBase("#7 Data Handling", new CallbackData("a", "data").Serialize()));
+        //btn.AddButtonRow(new ButtonBase("#8 Calendar Picker", new CallbackData("a", "calendar").Serialize()));
+        //btn.AddButtonRow(new ButtonBase("#9 Month Picker", new CallbackData("a", "month").Serialize()));
 
-        btn.AddButtonRow(new ButtonBase("#11 ToggleButtons", new CallbackData("a", "togglebuttons").Serialize()));
+        //btn.AddButtonRow(new ButtonBase("#10 TreeView", new CallbackData("a", "treeview").Serialize()));
 
-        btn.AddButtonRow(new ButtonBase("#11.2 MultiToggleButtons",
-                                        new CallbackData("a", "multitogglebuttons").Serialize()));
+        //btn.AddButtonRow(new ButtonBase("#11 ToggleButtons", new CallbackData("a", "togglebuttons").Serialize()));
 
-        btn.AddButtonRow(new ButtonBase("#12 ButtonGrid", new CallbackData("a", "buttongrid").Serialize()));
+        //btn.AddButtonRow(new ButtonBase("#11.2 MultiToggleButtons",
+        //                                new CallbackData("a", "multitogglebuttons").Serialize()));
 
-        btn.AddButtonRow(new ButtonBase("#13 ButtonGrid Paging & Filter",
-                                        new CallbackData("a", "buttongridfilter").Serialize()));
+        //btn.AddButtonRow(new ButtonBase("#12 ButtonGrid", new CallbackData("a", "buttongrid").Serialize()));
 
-        btn.AddButtonRow(new ButtonBase("#14 ButtonGrid Tags (Filter)",
-                                        new CallbackData("a", "buttongridtags").Serialize()));
+        //btn.AddButtonRow(new ButtonBase("#13 ButtonGrid Paging & Filter",
+        //                                new CallbackData("a", "buttongridfilter").Serialize()));
 
-        btn.AddButtonRow(new ButtonBase("#15 MultiView", new CallbackData("a", "multiview").Serialize()));
+        //btn.AddButtonRow(new ButtonBase("#14 ButtonGrid Tags (Filter)",
+        //                                new CallbackData("a", "buttongridtags").Serialize()));
 
-        btn.AddButtonRow(
-            new ButtonBase("#16 CheckedButtonList", new CallbackData("a", "checkedbuttonlist").Serialize()));
+        //btn.AddButtonRow(new ButtonBase("#15 MultiView", new CallbackData("a", "multiview").Serialize()));
 
-        btn.AddButtonRow(new ButtonBase("#17 NavigationController (Push/Pop)",
-                                        new CallbackData("a", "navigationcontroller").Serialize()));
+        //btn.AddButtonRow(
+        //    new ButtonBase("#16 CheckedButtonList", new CallbackData("a", "checkedbuttonlist").Serialize()));
 
-        btn.AddButtonRow(new ButtonBase("#18 Dynamic ButtonGrid (DataSources)",
-                                        new CallbackData("a", "dynamicbuttongrid").Serialize()));
+        //btn.AddButtonRow(new ButtonBase("#17 NavigationController (Push/Pop)",
+        //                                new CallbackData("a", "navigationcontroller").Serialize()));
 
-        btn.AddButtonRow(new ButtonBase("#19 Notifications", new CallbackData("a", "notifications").Serialize()));
+        //btn.AddButtonRow(new ButtonBase("#18 Dynamic ButtonGrid (DataSources)",
+        //                                new CallbackData("a", "dynamicbuttongrid").Serialize()));
+
+        //btn.AddButtonRow(new ButtonBase("#19 Notifications", new CallbackData("a", "notifications").Serialize()));
 
 
-        btn.AddButtonRow(new ButtonBase("#20 Label", new CallbackData("a", "label").Serialize()));
+        //btn.AddButtonRow(new ButtonBase("#20 Label", new CallbackData("a", "label").Serialize()));
 
-        btn.AddButtonRow(new ButtonBase("#21 ArrayPromptDialogTest", new CallbackData("a", "arraypromptdialog").Serialize()));
+        //btn.AddButtonRow(new ButtonBase("#21 ArrayPromptDialogTest", new CallbackData("a", "arraypromptdialog").Serialize()));
 
-        await Device.Send("Choose your test:", btn);
+        await Device.Send("Выбирай:", btn);
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Karma-Bot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24f23657d4a2ed39026e7875403bc47f7a3ca92d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Karma-Bot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Karma-Bot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

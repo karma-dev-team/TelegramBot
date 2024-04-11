@@ -36,6 +36,6 @@ public class PerStep : AutoCleanForm
         bf.AddButtonRow(new ButtonBase("Goto Step 1", "start"));
         bf.AddButtonRow(new ButtonBase("Back", "back"));
 
-        await Device.Send("Register Steps", bf);
+        await Device.Send("Шаги регистрации", bf);
     }
 }

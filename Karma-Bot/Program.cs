@@ -13,11 +13,16 @@ internal class Program
 {
     private static async Task Main(string[] args)
     {
-        var bot = BotBaseBuilder
-                 .Create()
-                 .WithAPIKey(("7186197731:AAH7a7jQOIh5HDpYY6Sdv73iZmGfSVod_rs")) 
+        var botBuilder = BotBaseBuilder
+                 .Create();
+
+        var serviceCollection = new ServiceCollection()
+                .AddMemoryCache();
+        var serviceProvider = serviceCollection.BuildServiceProvider();
+
+        var bot = botBuilder.WithAPIKey(("7186197731:AAH7a7jQOIh5HDpYY6Sdv73iZmGfSVod_rs")) 
                  .DefaultMessageLoop()
-                 .WithStartForm<Start>()
+                 .WithServiceProvider<Start>(serviceProvider)
                  .NoProxy()
                  .CustomCommands(a =>
                  {

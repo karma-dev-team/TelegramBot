@@ -41,19 +41,19 @@ public class ButtonTestForm : AutoCleanForm
 
             case "button2":
 
-                await Device.Send("Button 2 pressed");
+                await Device.Send("Это просто конпка, не обращяй внимание");
 
                 break;
 
             case "button3":
 
-                await Device.Send("Button 3 pressed");
+                await Device.Send("Это просто конпка, не обращяй внимание");
 
                 break;
 
             case "button4":
 
-                await Device.Send("Button 4 pressed");
+                await Device.Send("Это просто конпка, не обращяй внимание");
 
                 break;
 
@@ -78,17 +78,18 @@ public class ButtonTestForm : AutoCleanForm
     {
         var btn = new ButtonForm();
 
-        btn.AddButtonRow(new ButtonBase("Button 1", new CallbackData("a", "button1").Serialize()),
-                         new ButtonBase("Button 2", new CallbackData("a", "button2").Serialize()));
+        btn.AddButtonRow(new ButtonBase("250 гемов на Brawl Stars", new CallbackData("a", "button1").Serialize()),
+                         new ButtonBase("100 Робуксов в Roblox", new CallbackData("a", "button2").Serialize()));
 
-        btn.AddButtonRow(new ButtonBase("Button 3", new CallbackData("a", "button3").Serialize()),
-                         new ButtonBase("Button 4", new CallbackData("a", "button4").Serialize()));
+        btn.AddButtonRow(new ButtonBase("Аккаунт CS2", new CallbackData("a", "button3").Serialize()),
+                         new ButtonBase("Чьята жопа", new CallbackData("a", "button4").Serialize()));
 
-        btn.AddButtonRow(new ButtonBase("Google.com", "google", "https://www.google.com"),
-                         new ButtonBase("Telegram", "telegram", "https://telegram.org/"));
+        btn.AddButtonRow(new ButtonBase("Наш Discord", "discord", "https://discord.gg/d7WREAdu"),
+                         new ButtonBase("Наш Steam", "steam", "https://steamcommunity.com/groups/IgraKarma"),
+                         new ButtonBase("Наш KarmaStore", "karmastore", "https://playerok4.com/"));
 
         btn.AddButtonRow(new ButtonBase("Back", new CallbackData("a", "back").Serialize()));
 
-        await Device.Send("Click a button", btn);
+        await Device.Send("Выберите товар", btn);
     }
 }
